@@ -18,3 +18,7 @@
 .aside .nav-toggler span::after{
     background-color: #ec1839;
 }
+
+.home .intro .social-links a{
+    background-color: #00acee;
+}
